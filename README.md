@@ -37,4 +37,4 @@ I've taken part in game jams to experiment with small ideas and gameplay mechani
 ---
 
 Thanks for visiting!  
-Feel free to reach out if something here interests you.
+If something here interests you, feel free to reach out on Discord @manasauriz
