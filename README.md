@@ -1,4 +1,4 @@
-# Hi, I'm Izzy
+# Hi, I'm Mansoor
 
 I'm a developer who enjoys building useful and sometimes fun software.
 
@@ -9,8 +9,6 @@ I'm a developer who enjoys building useful and sometimes fun software.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 
 ## 🌱 Projects
 
