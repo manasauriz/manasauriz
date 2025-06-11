@@ -9,6 +9,8 @@ I'm a developer who enjoys building useful and sometimes fun software.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 
 ## 🌱 Projects
 
@@ -24,8 +26,8 @@ I'm a developer who enjoys building useful and sometimes fun software.
 
 ## 📚 Currently Learning
 
-- I'm expanding my CS fundamentals through the [Open Source Society University's Computer Science Curriculum](https://github.com/ossu/computer-science).
-- I'm learning Unity game development through the [Unity Learn's Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer).
+- I'm strengthening my CS fundamentals through [Open Source Society University's Computer Science Curriculum](https://github.com/ossu/computer-science).
+- I'm doing a deep dive into modern web development through [Full Stack Open](https://fullstackopen.com/en/).
 
 ## 🎮 Other Interests
 
